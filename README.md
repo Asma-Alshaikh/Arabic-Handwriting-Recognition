@@ -1,4 +1,4 @@
-# ✍️ Arabic Handwritten Character Recognition
+# Arabic Handwritten Character Recognition ✍️
 
 ## Project Overview
 Developed a Convolutional Neural Network (CNN) model for recognizing handwritten Arabic characters from individual image samples. The model classifies each input image into its corresponding Arabic letter by learning spatial patterns and features from the data.
